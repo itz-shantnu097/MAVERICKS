@@ -1,0 +1,19 @@
+-- import: fastn
+
+-- fastn.package: itz-shantnu097.github.io/mavericks
+favicon: /-/itz-shantnu097.github.io/mavericks/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
+
+-- fastn.auto-import: itz-shantnu097.github.io/mavericks/FASTN/ds
+-- fastn.auto-import: itz-shantnu097.github.io/mavericks/assets
+-- fastn.auto-import: doc-site
+
+-- fastn.sitemap:
+
+# Home: index.html
+
+- Right Sidebar Sample: /sidebar/
